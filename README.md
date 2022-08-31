@@ -11,7 +11,7 @@ ________________________________________________________________
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-[https://github.com/cglnrdgn/kodluyoruzilkrepo.git](https://github.com/cglnrdgn/kodluyoruzilkrepo.git)
+git clone https://github.com/cglnrdgn/kodluyoruzilkrepo.git
 ```
 
 ### Usage
