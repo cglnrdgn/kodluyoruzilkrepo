@@ -3,6 +3,7 @@ ________________________________________________________________
 
 Bu repo KODLUYORUZ Front-End Eğitiminden oluşturduğumuz ilk repo, İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](https://raw.githubusercontent.com/cglnrdgn/kodluyoruzilkrepo/main/img.png)
 
 ### Installation
 ________________________________________________________________
